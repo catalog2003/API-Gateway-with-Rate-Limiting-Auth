@@ -1,0 +1,9 @@
+flask
+pymongo
+redis
+python-dotenv
+requests
+beautifulsoup4
+bcrypt
+pyjwt
+gunicorn
