@@ -7,5 +7,5 @@ beautifulsoup4
 bcrypt
 pyjwt
 gunicorn
-pydantic
 pydantic[email]
+prometheus-client
