@@ -455,8 +455,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ If you find this project useful, please consider giving it a star!
-#   A P I - G a t e w a y - w i t h - R a t e - L i m i t i n g - A u t h  
- #   A P I - G a t e w a y - w i t h - R a t e - L i m i t i n g - A u t h  
- #   A P I - G a t e w a y - w i t h - R a t e - L i m i t i n g - A u t h  
- #   A P I - G a t e w a y - w i t h - R a t e - L i m i t i n g - A u t h  
- 
+#
